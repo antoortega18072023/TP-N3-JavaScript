@@ -5,7 +5,7 @@ function mayusominus(texto){
     if (texto === texto.toUpperCase()){
         return "la cadena esta formada por mayusculas"
     }else if(texto === texto.toLowerCase()){
-        return "la cadena esta formada por mayusculas"
+        return "la cadena esta formada por minusculas"
     }else{
         return "la cadena es una mezcla de mayusculas y minusculas"
     }
